@@ -1,0 +1,1 @@
+nuget push -Source "private nuget feed" -ApiKey az *.nupkg

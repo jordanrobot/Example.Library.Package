@@ -1,0 +1,2 @@
+rm *.nupkg
+nuget pack
